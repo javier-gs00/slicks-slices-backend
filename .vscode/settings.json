@@ -3,7 +3,8 @@
     "titleBar.activeForeground": "#fff",
     "titleBar.inactiveForeground": "#ffffffcc",
     "titleBar.activeBackground": "#FF2C70",
-    "titleBar.inactiveBackground": "#FF2C70CC"
+    "titleBar.inactiveBackground": "#FF2C70CC",
+    "tab.activeBorder": "#ff2c70"
   },
   // These are all my auto-save configs
   "editor.formatOnSave": true,
